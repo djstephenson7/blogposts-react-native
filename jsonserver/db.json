@@ -1,3 +1,24 @@
 {
-  "blogposts": []
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Some Blog Post",
+      "content": "Some content"
+    },
+    {
+      "title": "New blog post",
+      "content": "Content",
+      "id": 2
+    },
+    {
+      "title": "Third post",
+      "content": "Third content",
+      "id": 3
+    },
+    {
+      "title": "4",
+      "content": "4",
+      "id": 4
+    }
+  ]
 }
